@@ -1,6 +1,9 @@
 {
-  "validation_accuracy": 79.96,
-  "test_accuracy": 79.12,
+  "validation_accuracy": 81.44,
+  "test_accuracy": 79.524,
   "notebook": "SentimentScope.ipynb",
-  "checkpoint": "SentimentScope_DemoGPT_checkpoint.pt"
+  "checkpoint": "SentimentScope_DemoGPT_checkpoint.pt",
+  "train_samples": 22500,
+  "validation_samples": 2500,
+  "test_samples": 25000
 }

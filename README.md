@@ -4,8 +4,8 @@ SentimentScope is a PyTorch sentiment-analysis project that classifies IMDB movi
 
 ## Results
 
-- Validation accuracy: **79.96%**
-- Test accuracy: **79.12%**
+- Validation accuracy: **81.44%**
+- Test accuracy: **79.52%**
 - Required test accuracy: **greater than 75%**
 - Test set size: **25,000 reviews**
 
@@ -27,5 +27,4 @@ SentimentScope is a PyTorch sentiment-analysis project that classifies IMDB movi
 
 4. Open and run `SentimentScope.ipynb`.
 
-The notebook uses stratified training and validation splits, fixed random seeds, and includes assertions for dataset dimensions, tensor types, model output shape, and the required accuracy threshold.
-
+The notebook follows the starter-specific 22,500/2,500/25,000 train-validation-test split, uses fixed random seeds, and retains the required assertions for DataFrame dimensions, Dataset lengths and types, `DemoGPT` output shape, and the accuracy threshold.
