@@ -14,6 +14,7 @@ SentimentScope is a PyTorch sentiment-analysis project that classifies IMDB movi
 - `SentimentScope.ipynb` — fully executed project notebook, including data loading, exploratory analysis, visualizations, tokenization, the custom PyTorch dataset, transformer architecture, training loop, evaluation, and conclusions.
 - `SentimentScope_DemoGPT_checkpoint.pt` — trained model checkpoint containing the state dictionary, configuration, tokenizer identifier, seed, and measured accuracy.
 - `verification.json` — concise verification results.
+- `EXECUTION_RESULTS.md` — assertion results, descriptive statistics, rendered visualizations, and execution evidence.
 
 ## Running the notebook
 
