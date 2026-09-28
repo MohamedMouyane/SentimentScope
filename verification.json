@@ -1,0 +1,6 @@
+{
+  "validation_accuracy": 79.96,
+  "test_accuracy": 79.12,
+  "notebook": "SentimentScope.ipynb",
+  "checkpoint": "SentimentScope_DemoGPT_checkpoint.pt"
+}
